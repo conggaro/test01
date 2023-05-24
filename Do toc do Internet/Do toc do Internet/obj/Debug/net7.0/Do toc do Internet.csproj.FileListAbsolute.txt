@@ -1,0 +1,15 @@
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\bin\Debug\net7.0\Do toc do Internet.exe
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\bin\Debug\net7.0\Do toc do Internet.deps.json
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\bin\Debug\net7.0\Do toc do Internet.runtimeconfig.json
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\bin\Debug\net7.0\Do toc do Internet.dll
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\bin\Debug\net7.0\Do toc do Internet.pdb
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.csproj.AssemblyReference.cache
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.AssemblyInfoInputs.cache
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.AssemblyInfo.cs
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.csproj.CoreCompileInputs.cache
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.dll
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\refint\Do toc do Internet.dll
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.pdb
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\Do toc do Internet.genruntimeconfig.cache
+C:\Users\nccon\Videos\Do toc do Internet\Do toc do Internet\obj\Debug\net7.0\ref\Do toc do Internet.dll
